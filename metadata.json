@@ -1,0 +1,6 @@
+{
+  "name": "JabaShop",
+  "description": "JabaShop is a digital learning platform helping learners discover practical technology, AI, business and digital skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
